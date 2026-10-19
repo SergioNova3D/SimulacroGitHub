@@ -1,0 +1,2 @@
+Hola mundo, soy Juan Carlos
+y esto es un simulacro de GitHub
