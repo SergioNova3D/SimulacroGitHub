@@ -1,3 +1,4 @@
 patatas fritas con ali oli
 estofado
+<<<<<<< HEAD
 judias rojas
