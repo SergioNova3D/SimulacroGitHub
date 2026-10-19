@@ -1,2 +1,8 @@
-Este es el documento de texto de mi repositorio de Git. Y poco más. y un poco mas
+<<<<<<< HEAD
+Este es el documento de texto de mi repositorio de Git. Y poco más. 
 Este es el documento de texto del repositorio de David Gaspar de git
+=======
+Este es el documento de texto de mi repositorio de Git.
+Este es el documento de texto del repositorio de David Gaspar de git.
+El documento de David Gaspar quiere suicidarse
+>>>>>>> origin/DavidGaspar
