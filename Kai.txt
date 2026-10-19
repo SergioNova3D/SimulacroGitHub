@@ -1,1 +1,2 @@
-Este es nuestro primer simulacro en GitHub, este archivo de texto ha sido escrito por Kai Cortés.
+Este es nuestro primer simulacro en GitHub, este archivo de texto ha sido escrito por Kai Cortés. 
+Cambiando para que salga el error plis.
