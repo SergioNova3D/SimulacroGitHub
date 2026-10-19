@@ -1,4 +1,14 @@
 Hola mundo, soy Juan Carlos
 y esto es un simulacro de GitHub
+<<<<<<< HEAD
 Diría adios, pero, hola, ¿Qué tal? Hay que saludar.
 Hola, ¿Qué tal? Hay que saludar
+=======
+
+Mario, te estoy vigilando
+Ten cuidado
+
+Hola Juan Carlos, soy Mario
+Me he metido en tus archivos, ten cuidado.
+
+>>>>>>> 6ff235f1212236e04dc94deddea7abd5c376f4b8
