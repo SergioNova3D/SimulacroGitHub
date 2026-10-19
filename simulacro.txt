@@ -1,3 +1,4 @@
 Este es un simulacro
 de github
+<<<<<<< HEAD
 Hola que tal
