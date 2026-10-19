@@ -1,2 +1,4 @@
 Hola mundo, soy Juan Carlos
 y esto es un simulacro de GitHub
+Diría adios, pero, hola, ¿Qué tal? Hay que saludar.
+Hola, ¿Qué tal? Hay que saludar
