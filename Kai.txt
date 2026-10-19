@@ -1,7 +1,15 @@
+
+Este es nuestro primer simulacro en GitHub, este archivo de texto ha sido escrito por Kai Cortés. 
+Cambiando para que salga el error plis.
+
 Este es nuestro primer simulacro en GitHub, este archivo de texto ha sido escrito por Kai Cortés.
 
 Concepción Flores ha entrado a tu fichero y te lo he cambiado.
 
+
 Intentando que salga error.
 
 Ahora si que va a salir error.
+
+Intentando que salga error.
+
