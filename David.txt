@@ -1,1 +1,2 @@
 Este es el documento de texto de mi repositorio de Git.
+Este es el documento de texto del repositorio de David Gaspar de git.
